@@ -30,6 +30,4 @@
 
 ## 連絡先
 
-ご依頼・ご相談はメールでお願いします。
-
-shijun0537@gmail.com
+お問い合わせは [こちらのフォーム](https://shijun537.github.io/contact.html) からお願いします。
