@@ -37,7 +37,7 @@
 - [既存ページの表示崩れを修正（修正前／修正後）](https://shijun537.github.io/fix/after.html)
 - [外壁塗装の集客LP（1ページ・スマホ対応）](https://shijun537.github.io/lp.html)
 - [中小企業向けコーポレートサイト（1ページ）](https://shijun537.github.io/corporate.html)
-- [見積書・請求書の自動生成（CSV → A4 PDF）](https://shijun537.github.io/quote/index.html) — 紹介ページです。Webサービスではありません
+- [見積書・請求書の自動生成（CSV → A4 PDF）](https://shijun537.github.io/quote/index.html) 
 
 ## 連絡先
 
