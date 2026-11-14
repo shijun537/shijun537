@@ -28,6 +28,12 @@
 
 制作には生成AIを活用しています。生成物は必ず自分で確認し、表示と動作の検証を行った上で納品します。
 
+## 実績
+
+- [既存ページの表示崩れを修正（修正前／修正後）](https://shijun537.github.io/fix/after.html)
+- [外壁塗装の集客LP（1ページ・スマホ対応）](https://shijun537.github.io/lp.html)
+- [中小企業向けコーポレートサイト（1ページ）](https://shijun537.github.io/corporate.html)
+
 ## 連絡先
 
 お問い合わせは [こちらのフォーム](https://shijun537.github.io/contact.html) からお願いします。
